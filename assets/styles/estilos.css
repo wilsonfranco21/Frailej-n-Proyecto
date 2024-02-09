@@ -6,3 +6,36 @@
 
     background-color: green;
 }
+.fuente{
+
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    color: blue;
+
+}
+
+.fuente2{
+
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    color: brown;
+}
+
+.fuente3{
+
+   
+    font-family: 'Protest Strike', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    color: green;
+    
+}
+
+.fuente4{
+
+    font-family: 'Courgette', cursive;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Protest Guerrilla', sans-serif;
+    font-family: 'Sixtyfour', sans-serif;
+}
+
